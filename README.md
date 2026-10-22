@@ -10,7 +10,8 @@
 ![Node.js version screenshot](screenshots/node-version.png)
 
 ### 3. Page Running with Live Server
-![Live Server screenshot](screenshots/live-server-page.png)
+<img width="950" height="473" alt="image" src="https://github.com/user-attachments/assets/160cfd89-7a55-444b-a465-c0538619451a" />
+
 
 ---
 
